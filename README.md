@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wilsonbanji
-- 👀 I’m interested in becoming a web developer,
-- 🌱 I’m currently learning web development 
+- 👀 I’m a web developer,
+- 🌱 I’m have knowledge of HTMl,CSS,BOOTSRAP AND JAVASCRIPT 
 - 💞️ I’m looking to collaborate with folks working on web project
 - 📫 How to reach me ...wilsonbanji@yahoo.com
 
